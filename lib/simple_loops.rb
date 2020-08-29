@@ -1,1 +1,1 @@
-loop_message_five_times = [Wolfie]
+loop_message_five_times = ["Wolfie", "Erin", "Dino", "Nicole", "Iva"]
