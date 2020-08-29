@@ -1,6 +1,6 @@
-def loop_message_five_times("sup")
+def loop_message_five_times(sup)
   count = 0 
   while count < 5 do
-    puts "sup"
+    puts sup
     count += 1
 end
